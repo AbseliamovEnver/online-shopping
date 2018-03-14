@@ -23,3 +23,5 @@ hs_err_pid*
 .idea/
 /onlineshopping/target/
 /shoppingbackend/target/
+onlineshopping/onlineshopping.iml
+shoppingbackend/shoppingbackend.iml
